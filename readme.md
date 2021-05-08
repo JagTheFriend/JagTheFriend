@@ -15,10 +15,10 @@
 </h2>
 <ul>
   <li>
-    Do I prefer to code ? 
+    Do I prefer to code? 
         <i>Yes</i></li>
   <li>
-    Would I like to help you in a project ? 
+    Would I like to help you in a project? 
         <i>Yes</i>
   </li>
 </ul>
