@@ -39,27 +39,30 @@
         This a custom built API, which I'm working on right now, You can use it to 
             <br>
             + <a href="https://github.com/JagTheFriend/APICode#compile-api"> Run and compile code</a><br>
-            + Get a <a href="https://github.com/JagTheFriend/APICode#reddit-api"> random post from a subreddit</a><br>
-            + Get the <a href="https://github.com/JagTheFriend/APICode#lyrics-api"> lyrics of a song</a><br>
+            + <a href="https://github.com/JagTheFriend/APICode#reddit-api"> Get a random post from a subreddit</a><br>
+            + <a href="https://github.com/JagTheFriend/APICode#lyrics-api"> Get the lyrics of a song</a><br>
   </li>
 </ul>
 
 <h2>
-  My stats
+    My stats:
 </h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=JagTheFriend&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=7289da&bg_color=121212">
+<img src="https://github-readme-stats.vercel.app/api?username=JagTheFriend&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=7289da&bg_color=121212"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JagTheFriend&layout=compact&theme=tokyonight"/>
+<img src="https://github-profile-trophy.vercel.app/?username=JagTheFriend" alt="JagTheFriend"/>
+
 
 # Languages I prefer to code in:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JagTheFriend&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>
-  Links
+    Links:
 </h2>
 
 <ul>
   <li>
-    <a href="https://discord.com/oauth2/authorize?client_id=787331712601686017&permissions=2147483639&scope=bot">
+    <a href="https://discord.com/oauth2/authorize?client_id=787331712601686017&permissions=1916267615&scope=bot">
       My discord bot
     </a> 
   </li>
@@ -71,9 +74,9 @@
 </ul>
 
 <h2> 
-Contact me:
+    Contact me:
 </h2>
-Send me a email at: <i>jagthefriend12@gmail.com</i>
+    Send me a email at: <i>jagthefriend12@gmail.com</i>
 <br>
 or
 <br>
