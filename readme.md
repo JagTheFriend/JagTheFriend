@@ -25,7 +25,7 @@
 
 <h2>Current Projects</h2>
 
-- <a href="https://sites.google.com/view/the-cool-bot/home">The Cool Bot:</a> <br>
+- <a href="https://top.gg/bot/787331712601686017">The Cool Bot:</a> <br>
   A multi-purpose bot ready to skill up and boost up your Discord server, <br>
   It also features moderation, fun, games, music and much more!
 
