@@ -43,9 +43,15 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JagTheFriend&layout=compact&theme=tokyonight"/>
 <img src="https://github-profile-trophy.vercel.app/?username=JagTheFriend" alt="JagTheFriend"/>
 
+<h2>
+    Something I'm proud of:
+</h2>
+
+<img src="https://cdn.discordapp.com/attachments/803194042757808182/817497523262062612/unknown.png" />
 
 # Languages I prefer to code in:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JagTheFriend&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h2>
     Links:
