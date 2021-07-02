@@ -16,7 +16,8 @@
 <ul>
   <li>
     Do I prefer to code? 
-        <i>Yes</i></li>
+        <i>Yes</i>
+  </li>
   <li>
     Would I like to help you in a project? 
         <i>Yes</i>
@@ -35,6 +36,9 @@
     - <a href="https://github.com/JagTheFriend/APICode#reddit-api"> Get a random post from a subreddit</a><br>
     - <a href="https://github.com/JagTheFriend/APICode#lyrics-api"> Get the lyrics of a song</a><br>
 
+- <a href="https://github.com/JagTheFriend/Cloud-Storage">A simple online storage example</a><br>
+    This is an extremely simple website I've built which demonstrate how online storage (theoratically) works.<br>
+    It doesn't have the best design for online storage, but it will be improved in the future as it is still in development 
 <h2>
     My stats:
 </h2>
@@ -48,7 +52,7 @@
     Something I'm proud of:
 </h2>
 
-<img src="https://cdn.discordapp.com/attachments/803194042757808182/817497523262062612/unknown.png" />
+<img src="https://cdn.discordapp.com/attachments/803194042757808182/817497523262062612/unknown.png"/>
 
 # Languages I prefer to code in:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JagTheFriend&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
