@@ -4,7 +4,8 @@
 
 <h3> 
         I am JagTheFriend, I like to     
-    <a href="https://dis.gd/threads">
+<!--     <a href="https://dis.gd/threads"> -->
+    <a href="https://github.com/JagTheFriend/Cloud-Storage">
         code
     </a> 
         (most of the time)
