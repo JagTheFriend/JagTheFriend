@@ -3,12 +3,10 @@
 </h1>
 
 <h3> 
-        I am JagTheFriend, I like to     
-<!--     <a href="https://dis.gd/threads"> -->
-    <a href="https://github.com/JagTheFriend/Cloud-Storage">
-        code
+        I am JagTheFriend, and I enjoy     
+    <a href="https://dis.gd/threads">
+        programming
     </a> 
-        (most of the time)
 </h3> 
 
 <h2>
@@ -28,7 +26,10 @@
     My stats:
 </h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=JagTheFriend&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=7289da&bg_color=121212"/>
+[![JagTheFriend's GitHub stats](https://github-readme-stats.vercel.app/api?username=JagTheFriend&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JagTheFriend&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=JagTheFriend&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=7289da&bg_color=121212"/> -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JagTheFriend&layout=compact&theme=tokyonight"/>
 <img src="https://github-profile-trophy.vercel.app/?username=JagTheFriend" alt="JagTheFriend"/>
 <img src="https://activity-graph.herokuapp.com/graph?username=JagTheFriend&theme=rogue"/>
@@ -39,32 +40,19 @@
 
 <img src="https://cdn.discordapp.com/attachments/803194042757808182/817497523262062612/unknown.png"/>
 
-# Languages I prefer to code in:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JagTheFriend&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<h2>
-    Links:
-</h2>
-
+<h2>Links:</h2>
 <ul>
   <li>
-    <a href="https://top.gg/bot/787331712601686017">
-      My discord bot
-    </a> 
+    <a href="https://top.gg/bot/787331712601686017">My discord bot</a> 
   </li>
   <li>
-    <a href="https://github.com/JagTheFriend?tab=repositories">
-      My repos
-    </a>
+    <a href="https://github.com/JagTheFriend?tab=repositories">My repos</a>
   </li>
 </ul>
 
-<h2> 
-    Contact me:
-</h2>
+<h2>Contact me:</h2>
     Send me a email at: <i>jagthefriend12@gmail.com</i>
 <br>
 or
 <br>
-DM me in discord: <i>JagTheFriend#9984</i>
+    DM me in discord: <i>JagTheFriend#9984</i>
