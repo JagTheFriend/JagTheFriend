@@ -24,22 +24,6 @@
         <i>Yes</i>
   </li>
 </ul>
-
-<h2>Current Projects</h2>
-
-- <a href="https://top.gg/bot/787331712601686017">The Cool Bot:</a> <br>
-  A multi-purpose bot ready to skill up and boost up your Discord server, <br>
-  It also features moderation, fun, games, music and much more!
-
-- <a href="https://github.com/JagTheFriend/APICode">Multi-purpose API:</a> <br>
-   This a custom built API, which I'm working on right now, You can use it to:
-    - <a href="https://github.com/JagTheFriend/APICode#compile-api"> Run and compile code</a><br>
-    - <a href="https://github.com/JagTheFriend/APICode#reddit-api"> Get a random post from a subreddit</a><br>
-    - <a href="https://github.com/JagTheFriend/APICode#lyrics-api"> Get the lyrics of a song</a><br>
-
-- <a href="https://github.com/JagTheFriend/Cloud-Storage">A simple online storage example</a><br>
-    This is an extremely simple website I've built which demonstrate how online storage (theoratically) works.<br>
-    It doesn't have the best design for online storage, but it will be improved in the future as it is still in development 
 <h2>
     My stats:
 </h2>
