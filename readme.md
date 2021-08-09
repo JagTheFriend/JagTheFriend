@@ -49,7 +49,7 @@
 
 <ul>
   <li>
-    <a href="https://discord.com/oauth2/authorize?client_id=787331712601686017&permissions=1916267615&scope=bot">
+    <a href="https://top.gg/bot/787331712601686017">
       My discord bot
     </a> 
   </li>
