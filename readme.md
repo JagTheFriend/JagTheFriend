@@ -1,7 +1,7 @@
 <h1>Hi there 👋</h1>
 
 <h3> I am JagTheFriend, and I enjoy     
-     <a href="https://dis.gd/threads">programming</a> 
+     <a href="https://github.com/JagTheFriend?tab=repositories">programming</a> 
 </h3> 
 
 <h2>Some facts about me</h2>
