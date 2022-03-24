@@ -18,7 +18,7 @@
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=JagTheFriend&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=7289da&bg_color=121212"/> -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JagTheFriend&layout=compact&theme=tokyonight"/>
 <img src="https://github-profile-trophy.vercel.app/?username=JagTheFriend" alt="JagTheFriend"/>
-<img src="https://activity-graph.herokuapp.com/graph?username=JagTheFriend&theme=rogue"/>
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=JagTheFriend&theme=rogue"/> -->
 
 <h2>Something I'm proud of:</h2>
 <img src="https://cdn.discordapp.com/attachments/803194042757808182/817497523262062612/unknown.png"/>
