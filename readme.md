@@ -22,19 +22,19 @@
 
 <h2>Something I'm proud of:</h2>
 <img src="https://cdn.discordapp.com/attachments/803194042757808182/817497523262062612/unknown.png"/>
-<a href="https://discord.com/oauth2/authorize?client_id=787331712601686017&permissions=1916267615&scope=bot"> 
+<!-- <a href="https://discord.com/oauth2/authorize?client_id=787331712601686017&permissions=1916267615&scope=bot"> 
     Invite me!
 </a>
-
-<h2>Links:</h2>
+ -->
+<!-- <h2>Links:</h2>
 <ul>
   <li><a href="https://top.gg/bot/787331712601686017">My discord bot</a></li>
   <li><a href="https://github.com/JagTheFriend?tab=repositories">My repos</a></li>
 </ul>
-
+ -->
 <h2>Contact me:</h2>
 Send me a email at: <i>jagthefriend12@gmail.com</i>
 <br>
 or
 <br>
-DM me in discord: <i>JagTheFriend#9984</i>
+DM me in discord: <i>JagTheFriend</i>
