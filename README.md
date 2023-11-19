@@ -20,7 +20,7 @@
 </div>
 
 <div style="display: flex; flex-direction: row;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JagTheFriend&layout=compact&theme=tokyonight%22/%3E" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JagTheFriend&layout=compact&theme=tokyonight" width="45%" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-profile-trophy.vercel.app/?username=JagTheFriend" width="45%" />
 </div>
