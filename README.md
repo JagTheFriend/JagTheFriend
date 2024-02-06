@@ -31,7 +31,7 @@
 
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="40" />
   </a>
 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
@@ -80,9 +80,7 @@
   </a>
 
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
-    alt="vscode" width="40" height="40"
-    />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" />
   </a>
 
   <a href="https://pnpm.io" target="_blank" rel="noreferrer">
