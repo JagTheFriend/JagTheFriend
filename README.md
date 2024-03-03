@@ -88,7 +88,7 @@
 
 ## Something I'm proud of:
 
-<img src="https://cdn.discordapp.com/attachments/803194042757808182/817497523262062612/unknown.png" alt="Discord Image"/>
+<img src="https://github.com/JagTheFriend/JagTheFriend/assets/70753983/6197c7b3-8809-491a-95c1-1cb59b3d7917" alt="Discord Image"/>
 
 ## Contact me:
 
