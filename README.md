@@ -14,7 +14,7 @@
 
 ## Tools & Language
 
-[![My Skills](https://skillicons.dev/icons?i=python,ts,css,html,nodejs,react,nextjs,express,bootstrap,tailwind,docker,pnpm,supabase,firebase,vercel,netlify,regex,git,linux,vscode&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,ts,css,html,nodejs,go,react,nextjs,express,bootstrap,tailwind,docker,vite,pnpm,supabase,firebase,sqlite,markdown,mongodb,vercel,netlify,regex,terraform,git,linux,windows,vscode,neovim,linkedin,discord,&perline=10)](https://github.com/JagTheFriend)
 
 ## Stats
 
