@@ -1,21 +1,36 @@
-<h1 align="center"> Hi, I'm JagTheFriend </h1>
+<div align="center"> 
+  
+  # Hello, I'm JagTheFriend
+</div>
 
 ## Some facts about me</h2>
 
-- Do I prefer to code? _Yes_
-- Would I like to help you in a project? _Yes_
+- Diverse Language Proficiency
+- Innovative Solutions
+- Complex Problem Solving
+- Performance Optimization
+- Hackathon Achievements
+- Open Source Contributions
 
 ## Tools & Language
 
-[![My Skills](https://skillicons.dev/icons?i=python,ts,css,html,nodejs,react,nextjs,express,bootstrap,tailwind,docker,pnpm,supabase,firebase,vercel,netlify,regex,git,linux,vscode&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,ts,css,html,nodejs,react,nextjs,express,bootstrap,tailwind,docker,pnpm,supabase,firebase,vercel,netlify,regex,git,linux,vscode&perline=5)](https://skillicons.dev)
 
 ## Stats
 
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JagTheFriend&theme=tokyonight)
-![Stats](https://github-readme-streak-stats.herokuapp.com/?user=JagTheFriend&layout=compact&theme=tokyonight)
+<div style="display: flex; width: 100%; justify-content: space-evenly">
 
-![Stats](https://stats.quine.sh/JagTheFriend/github?theme=dark)
-![Stats](https://github-profile-trophy.vercel.app/?username=JagTheFriend)
+  ![Stats1](https://github-readme-stats.vercel.app/api/top-langs/?username=JagTheFriend&theme=tokyonight)
+  ![Stats2](https://stats.quine.sh/JagTheFriend/github?theme=dark)
+</div>
+
+<div style="display: flex; width: 100%; justify-content: space-evenly">
+
+  ![Stats3](https://github-readme-streak-stats.herokuapp.com/?user=JagTheFriend&layout=compact&theme=tokyonight)
+  ![Stats4](https://github-readme-stats.vercel.app/api?username=JagTheFriend&show_icons=true&theme=dark&bg_color=161B22&icon_color=4DAAFC)
+</div>
+
+![Stats5](https://github-profile-trophy.vercel.app/?username=JagTheFriend)
 
 ## Something I'm proud of
 
