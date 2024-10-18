@@ -38,5 +38,4 @@
 
 ## Contact me
 
-Email: [_JagTheFriend12@gmail.com_](mailto:JagTheFriend12@gmail.com)\
-Discord: _JagTheFriend_~#9984~
+Email: [_JagTheFriend12@gmail.com_](mailto:JagTheFriend12@gmail.com)
