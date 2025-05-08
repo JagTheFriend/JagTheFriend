@@ -20,15 +20,15 @@
 
 <div style="display: flex; width: 100%; justify-content: space-evenly">
   
-  ![Stats1](https://github-readme-stats.vercel.app/api/top-langs/?username=JagTheFriend&theme=vision-friendly-dark&hide_border=false)
-  ![Stats2](https://stats.quine.sh/JagTheFriend/github?theme=vision-friendly-dark&hide_border=false)
-</div>
-
-<div style="display: flex; width: 100%; justify-content: space-evenly">
-
-  ![Stats3](https://github-readme-streak-stats.herokuapp.com/?user=JagTheFriend&layout=compact&theme=vision-friendly-dark&hide_border=false)
+  <!-- ![Stats1](https://github-readme-stats.vercel.app/api/top-langs/?username=JagTheFriend&theme=vision-friendly-dark&hide_border=false) -->
+  ![Stats1](https://github-readme-stats.vercel.app/api/top-langs/?username=JagTheFriend&theme=vision-friendly-dark&hide_border=false&layout=compact)
   ![Stats4](https://github-readme-stats.vercel.app/api?username=JagTheFriend&theme=vision-friendly-dark&hide_border=false)
+<!-- ![Stats2](https://stats.quine.sh/JagTheFriend/github?theme=vision-friendly-dark&hide_border=false) -->
 </div>
+
+<!--<div style="display: flex; width: 100%; justify-content: space-evenly">
+  ![Stats3](https://github-readme-streak-stats.herokuapp.com/?user=JagTheFriend&layout=compact&theme=vision-friendly-dark&hide_border=false) 
+</div> -->
 
 ![Stats5](https://github-profile-trophy.vercel.app/?username=JagTheFriend&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ## Something I'm proud of
