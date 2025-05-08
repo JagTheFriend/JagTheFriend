@@ -19,22 +19,25 @@
 ## Stats
 
 <div style="display: flex; width: 100%; justify-content: space-evenly">
-
-  ![Stats1](https://github-readme-stats.vercel.app/api/top-langs/?username=JagTheFriend&theme=tokyonight)
-  ![Stats2](https://stats.quine.sh/JagTheFriend/github?theme=dark)
+  
+  ![Stats1](https://github-readme-stats.vercel.app/api/top-langs/?username=JagTheFriend&theme=vision-friendly-dark&hide_border=false)
+  ![Stats2](https://stats.quine.sh/JagTheFriend/github?theme=vision-friendly-dark&hide_border=false)
 </div>
 
 <div style="display: flex; width: 100%; justify-content: space-evenly">
 
-  ![Stats3](https://github-readme-streak-stats.herokuapp.com/?user=JagTheFriend&layout=compact&theme=tokyonight)
-  ![Stats4](https://github-readme-stats.vercel.app/api?username=JagTheFriend&show_icons=true&theme=dark&bg_color=161B22&icon_color=4DAAFC)
+  ![Stats3](https://github-readme-streak-stats.herokuapp.com/?user=JagTheFriend&layout=compact&theme=vision-friendly-dark&hide_border=false)
+  ![Stats4](https://github-readme-stats.vercel.app/api?username=JagTheFriend&theme=vision-friendly-dark&hide_border=false)
 </div>
 
-![Stats5](https://github-profile-trophy.vercel.app/?username=JagTheFriend)
-
+![Stats5](https://github-profile-trophy.vercel.app/?username=JagTheFriend&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ## Something I'm proud of
 
 ![Discord Message](https://github.com/JagTheFriend/JagTheFriend/assets/70753983/6197c7b3-8809-491a-95c1-1cb59b3d7917)
+
+## 📈 Activity Graph:
+
+![JagTheFriend's Graph](https://github-readme-activity-graph.vercel.app/graph?username=JagTheFriend&custom_title=Jag's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 ## Contact me
 
