@@ -18,11 +18,13 @@
 
 ## Stats
 
-<div style="display: flex; width: 100%; justify-content: space-evenly">
+<!-- <div style="display: flex; width: 100%; justify-content: space-evenly"> -->
+<div align="center">
   
   <!-- ![Stats1](https://github-readme-stats.vercel.app/api/top-langs/?username=JagTheFriend&theme=vision-friendly-dark&hide_border=false) -->
   ![Stats1](https://github-readme-stats.vercel.app/api/top-langs/?username=JagTheFriend&theme=vision-friendly-dark&hide_border=false&layout=compact)
-  ![Stats4](https://github-readme-stats.vercel.app/api?username=JagTheFriend&theme=vision-friendly-dark&hide_border=false)
+  ![Stats2](https://github-readme-streak-stats.herokuapp.com/?user=JagTheFriend&theme=vision-friendly-dark&hide_border=false)
+<!-- ![Stats4](https://github-readme-stats.vercel.app/api?username=JagTheFriend&theme=vision-friendly-dark&hide_border=false) -->
 <!-- ![Stats2](https://stats.quine.sh/JagTheFriend/github?theme=vision-friendly-dark&hide_border=false) -->
 </div>
 
