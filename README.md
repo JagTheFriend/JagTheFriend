@@ -47,3 +47,10 @@
 
 ## Contact Me:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:JagTheFriend12@gmail.com)
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JagTheFriend/JagTheFriend/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JagTheFriend/JagTheFriend/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/JagTheFriend/JagTheFriend/output/github-snake.svg" style="max-width: 100%; height: auto;" />
+</picture>
