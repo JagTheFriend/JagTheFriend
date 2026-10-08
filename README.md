@@ -31,8 +31,10 @@
 ![Trophies](https://github-profile-trophy-fork-two.vercel.app/?username=JagTheFriend&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 <!--![](https://github-profile-trophy.vercel.app/?username=JagTheFriend&theme=radical&no-frame=true&no-bg=true&margin-w=4) -->
 
+<!--
 ## Activity Graph:
 ![JagTheFriend's Graph](https://github-readme-activity-graph.vercel.app/graph?username=JagTheFriend&theme=rogue)
+-->
 
 ## Something I'm proud of:
 
